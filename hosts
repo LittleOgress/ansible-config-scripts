@@ -18,10 +18,35 @@
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
 [master]
+master1.icp.asg.lenovo.lab
+master2.icp.asg.lenovo.lab
+master3.icp.asg.lenovo.lab
+
 [management]
+management1.icp.asg.lenovo.lab
+management2.icp.asg.lenovo.lab
+
 [proxy]
+proxy1.icp.asg.lenovo.lab
+proxy2.icp.asg.lenovo.lab
+proxy3.icp.asg.lenovo.lab
+
 [va]
+va1.icp.asg.lenovo.lab
+va2.icp.asg.lenovo.lab
+va3.icp.asg.lenovo.lab
+
 [worker]
+worker1.icp.asg.lenovo.lab
+worker2.icp.asg.lenovo.lab
+worker3.icp.asg.lenovo.lab
+worker4.icp.asg.lenovo.lab
+worker5.icp.asg.lenovo.lab
+worker6.icp.asg.lenovo.lab
+worker7.icp.asg.lenovo.lab
+worker8.icp.asg.lenovo.lab
+worker9.icp.asg.lenovo.lab
+worker10.icp.asg.lenovo.lab
 
 ## [webservers]
 ## alpha.example.org
